@@ -14,3 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Caveat
 
 for free api usage, only 1000 items per request and can use skip to get as much as 5000 items.
+export to csv function is provided.
+
+
